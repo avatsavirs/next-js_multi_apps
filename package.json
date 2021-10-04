@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "node server"
   },
   "keywords": [],
   "author": "",
